@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Python developer</h3>
 
 - 🌱 I’m currently learning **Python**
+- 
 📫 reach me meetsavaliya5324@gmail.com 
 
 ## 🌐 Socials:
