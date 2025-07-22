@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meet Savaliya
 
-🎓 **IT Undergrad | Python Developer | Tech Enthusiast**
+🎓 **Python Developer | Tech Enthusiast**
 
 I'm a motivated IT engineering student passionate about building scalable web applications, REST APIs, and solving real-world problems through clean and efficient code. I specialize in **Python development**, with hands-on experience in **Flask**, **Django**, and full-stack web development.
 
