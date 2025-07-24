@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meet Savaliya</h1>
 <h3 align="center">A passionate Python developer</h3>
 
-- 🌱 I’m currently learning **Python**
 - 📫 Reach me meetsavaliya5324@gmail.com 
 
 ## 🌐 Socials:
