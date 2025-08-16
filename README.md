@@ -6,9 +6,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meet-savaliya1010) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/MeetSavaliya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Meetsavaliya123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meetsavaliya5324@gmail.com) 
 
-# 💻 Tech Stack:
-# 💻 Tech Stack:
 
+# 💻 Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
